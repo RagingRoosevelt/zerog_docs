@@ -1,6 +1,8 @@
 # Useful for running the website locally
 # With docker-compose installed, run
 # > docker-compose up
+# Once running, navigate to http://127.0.0.1:4000
+# in order to view the local site.
 
 services:
   jekyll:

@@ -8,7 +8,7 @@ grand_parent: Manual
 permalink: /manual/build/hydra/rear_vertical_extrusion
 ---
 
-# 5. Rear Vertical Extrusion
+# {{ page.title }}
 {: .no_toc }
 
 1. Table of content
@@ -33,7 +33,7 @@ Roll two t-nuts into the top of the new 2020 extrusion.
 
 Roll two more t-nuts into the bottom groove of the top rear extrusion of the printer.  Space them around 30mm apart, centered on the span.
 
-Optionally, dab some low-strength thread locker into the threads of the t-nuts.
+Optionally, dab some low-strength thread locker into the threads of the t-nuts.  Be careful not to get it on your printed parts as it can degrade the plastic.
 
 #### Attach the corner brackets
 
@@ -62,5 +62,5 @@ Tighten the bolts attaching the corner brackets to the new extrusion, making sur
 
 Use a tape measure or other measuring device to make sure both the top and the bottom of the new extrusion are centered.  Once satisfied, tighten the bolts attaching the corner brackets to the rear top horizontal extrusion.
 
-### Install the linear rail
+
 
